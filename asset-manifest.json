@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iqra-digital/static/css/main.681cc38d.css",
+    "main.js": "/iqra-digital/static/js/main.34bb2b48.js",
+    "static/js/453.ab0d25dc.chunk.js": "/iqra-digital/static/js/453.ab0d25dc.chunk.js",
+    "index.html": "/iqra-digital/index.html",
+    "main.681cc38d.css.map": "/iqra-digital/static/css/main.681cc38d.css.map",
+    "main.34bb2b48.js.map": "/iqra-digital/static/js/main.34bb2b48.js.map",
+    "453.ab0d25dc.chunk.js.map": "/iqra-digital/static/js/453.ab0d25dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681cc38d.css",
+    "static/js/main.34bb2b48.js"
+  ]
+}
