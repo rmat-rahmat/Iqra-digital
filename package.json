@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -r https://github.com/rmat-rahmat/Iqra-digital.git"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
